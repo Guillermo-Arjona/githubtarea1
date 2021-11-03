@@ -1,0 +1,3 @@
+# githubtarea1
+Este es el primer codigo de la materia programacion 4
+Este es el codigo dl¿el diccionario de el slang panameño donde se puede ver la lista de palabras, agregar la palabra, borrar palabra , editar y ver significado...
